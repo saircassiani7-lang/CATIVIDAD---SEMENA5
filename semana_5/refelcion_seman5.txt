@@ -1,0 +1,18 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+respuesta:
+
+Las Interfaces de Programación de Aplicaciones (APIs) actúan como puentes digitales que permiten a 
+diferentes sistemas de software comunicarse entre sí de forma automática. Para una comunidad, 
+esto significa transformar reportes individuales e inconexos en una base de datos unificada, organizada y accesible en tiempo rea.
+
+1. Centralización de Reportes MulticanalConexión de plataformas: Las APIs recopilan información enviada desde aplicaciones móviles
+, formularios web, bots de WhatsApp o mensajes de Telegram.Base de datos única: Reciben los datos de distintas fuentes y los
+ consolidan en un solo lugar estructurado.
+
+Automatización: Evitan que un administrador deba copiar y pegar manualmente los reportes de los vecinos.2. Organización y 
+ClasificaciónAutomáticaEtiquetado de datos: Las APIs de inteligencia artificial pueden leer un reporte de texto y clasificarlo
+automáticamente (ej. "bache", "luminaria rota", "seguridad").
+
+Estandarización: Filtran la información para que campos críticos como la fecha, la hora y el tipo de incidente sigan 
+siempre el mismo formato.Validación: Comprueban de forma automática si un reporte está duplicado antes de guardarlo.

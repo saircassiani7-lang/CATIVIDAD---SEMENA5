@@ -1,0 +1,4 @@
+Qué hace esta ruta.
+Para qué podría servir en una aplicación comunitaria.
+ 
+Esta ruta lo que hace es confirmara que nuestro servidor funciona exitosamente. 

@@ -1,0 +1,21 @@
+Luego prueba en el navegador las siguientes rutas:
+
+http://localhost:3000
+http://localhost:3000/saludo
+http://localhost:3000/mensaje/juan
+
+Describe brevemente en un archivo llamado pruebas.txt qué ocurre en cada
+ una de esas rutas.
+
+Repuestas: 
+
+RUTA http://localhost:3000:
+Esta ruta se encarga de confirmar que nuestro servidor o pajina esta 
+fuencionando correctamente.
+
+http://localhost:3000/saludo:
+Esta ruta nos ayuda confirmar que la funcio de saludo esta funcionando.
+
+http://localhost:3000/mensaje/juan:
+Esta ruta nos confirma que la fucion de saludo y de dar un mensaje a
+( al nombre que coloquemos ) le saldra un menseaje.
